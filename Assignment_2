@@ -5,5 +5,3 @@ QUESTION 1:
     *q = 2;
     cout << i << j;
 OUTPUT : 20
-
-QUESTION 2 :
